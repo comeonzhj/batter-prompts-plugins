@@ -1,0 +1,11 @@
+{
+  "id": "prompt-methodology-extractor",
+  "name": "提示词方法论萃取器",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "从文档中萃取方法论并构建知识库，为AI提示词生成提供支持",
+  "author": "Your Name",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
